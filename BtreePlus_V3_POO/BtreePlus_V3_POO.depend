@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1538608950 source:/home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /NaoFolha.cpp
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<typeinfo>
+	<algorithm>
+
+1538659328 >
+
+1538606578 /home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /NaoFolha.h
+	"Pagina.h"
+	"Folha.h"
+	<vector>
+
+1538659299 
+
+1538410235 /home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /Pagina.h
+	<vector>
+	<iostream>
+
+1538608950 source:/home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /Folha.cpp
+	"Folha.h"
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<typeinfo>
+
+1538607842 /home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /Folha.h
+	"Pagina.h"
+	<vector>
+
+1538609042 source:/home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /main.cpp
+	<iostream>
+	"Pagina.h"
+	"Folha.h"
+	"NaoFolha.h"
+	<typeinfo>
+
+1538410792 source:/home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /Pagina.cpp
+	"Pagina.h"
+	<iostream>
+	<vector>
+
+1538188562 /home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /TIndice.h
+	"Pagina.h"
+
+1538192000 /home/railson/MEGA/Faculdade/Eng_Comp/6 Periodo/Banco de Dados 2/Trabalho1/BtreePlus_V3_POO /TIndices.h
+
+1538655982 source:c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\folha.cpp
+	"Folha.h"
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<typeinfo>
+
+1538607842 c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\folha.h
+	"Pagina.h"
+	<vector>
+
+1538410234 c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\pagina.h
+	<vector>
+	<iostream>
+
+1538657960 c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\naofolha.h
+	"Pagina.h"
+	"Folha.h"
+	<vector>
+
+1538659299 source:c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\main.cpp
+	<iostream>
+	"Pagina.h"
+	"Folha.h"
+	"NaoFolha.h"
+	<typeinfo>
+
+1538659328 source:c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\naofolha.cpp
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<typeinfo>
+	<algorithm>
+
+1538410792 source:c:\users\railson martins\desktop\btreeplus_v3_poo\btreeplus_v3_poo\pagina.cpp
+	"Pagina.h"
+	<iostream>
+	<vector>
+
+1538655982 source:/home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/Folha.cpp
+	"Folha.h"
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<typeinfo>
+
+1538607842 /home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/Folha.h
+	"Pagina.h"
+	<vector>
+
+1538410234 /home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/Pagina.h
+	<vector>
+	<iostream>
+
+1538835552 /home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/NaoFolha.h
+	"Pagina.h"
+	"Folha.h"
+	<vector>
+
+1538832403 source:/home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/main.cpp
+	<iostream>
+	"Pagina.h"
+	"Folha.h"
+	"NaoFolha.h"
+	<typeinfo>
+
+1538835094 source:/home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/NaoFolha.cpp
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<typeinfo>
+	<algorithm>
+
+1538410792 source:/home/railson/Documentos/BtreePlus_V3_POO/BtreePlus_V3_POO/Pagina.cpp
+	"Pagina.h"
+	<iostream>
+	<vector>
+
+1538914065 source:/home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/main.cpp
+	<iostream>
+	"Pagina.h"
+	"Folha.h"
+	"NaoFolha.h"
+	<typeinfo>
+
+1538410234 /home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/Pagina.h
+	<vector>
+	<iostream>
+
+1538910873 /home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/Folha.h
+	"Pagina.h"
+	<vector>
+
+1538835552 /home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/NaoFolha.h
+	"Pagina.h"
+	"Folha.h"
+	<vector>
+
+1538410792 source:/home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/Pagina.cpp
+	"Pagina.h"
+	<iostream>
+	<vector>
+
+1538910883 source:/home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/Folha.cpp
+	"Folha.h"
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<typeinfo>
+
+1538913985 source:/home/railson/MEGA/TrabalhoBD2_ArvoreB+/BtreePlus_V3_POO/NaoFolha.cpp
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<typeinfo>
+	<algorithm>
+
+1538910883 source:/home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/Folha.cpp
+	"Folha.h"
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<typeinfo>
+
+1538910873 /home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/Folha.h
+	"Pagina.h"
+	<vector>
+
+1538410234 /home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/Pagina.h
+	<vector>
+	<iostream>
+
+1538835552 /home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/NaoFolha.h
+	"Pagina.h"
+	"Folha.h"
+	<vector>
+
+1538914117 source:/home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/NaoFolha.cpp
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<typeinfo>
+	<algorithm>
+
+1538410792 source:/home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/Pagina.cpp
+	"Pagina.h"
+	<iostream>
+	<vector>
+
+1538915072 source:/home/railson/Documentos/TrabalhoBD2_ArvoreB+_Com_Argv_Argc/BtreePlus_V3_POO/main.cpp
+	<iostream>
+	"Pagina.h"
+	"Folha.h"
+	"NaoFolha.h"
+	<typeinfo>
+
+1539043280 source:/home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/Folha.cpp
+	"Folha.h"
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<typeinfo>
+
+1539038193 /home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/Folha.h
+	"Pagina.h"
+	<vector>
+
+1539036426 /home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/Pagina.h
+	<vector>
+	<iostream>
+
+1539037230 /home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/NaoFolha.h
+	"Pagina.h"
+	"Folha.h"
+	<vector>
+
+1539037542 source:/home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/NaoFolha.cpp
+	"NaoFolha.h"
+	<iostream>
+	<vector>
+	<typeinfo>
+	<algorithm>
+
+1539036239 source:/home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/Pagina.cpp
+	"Pagina.h"
+	<iostream>
+	<vector>
+
+1539043229 source:/home/oem/Downloads/TrabalhoBD2_ArvoreB+_Com_Argv_Argc_Edit/BtreePlus_V3_POO/main.cpp
+	<iostream>
+	"Pagina.h"
+	"Folha.h"
+	"NaoFolha.h"
+	<typeinfo>
+	<string>
+	<sstream>
+	<fstream>
+

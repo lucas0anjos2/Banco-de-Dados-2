@@ -1,0 +1,6 @@
+Para executar o programa em linha de comando use a seguinte sequencia:
+1º) g++ -c Pagina.cpp Folha.cpp NaoFolha.cpp
+2º) g++ -std=c++11 main.cpp Pagina.cpp Folha.cpp NaoFolha.cpp -o meuPrograma
+3º) ./meuPrograma elementos.txt 4
+
+Obs: onde elementos é o arquivo com todos elementos para inserir na arvore e 4 é a capacidade maxima de cada no (ordem 2 para o caso).

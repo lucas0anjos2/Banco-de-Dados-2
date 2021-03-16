@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541842269 source:c:\users\railson martins\documents\mega\faculdade\eng_comp\6 periodo\banco de dados 2\trabalho2\hash_extensivel\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
